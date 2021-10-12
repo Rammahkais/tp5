@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application SEM31</string>
+    <string name="textlogin">Ecrire votre login ici</string>
+    <string name="textpasswd">Ecrire votre mot e passe ici</string>
+</resources>
